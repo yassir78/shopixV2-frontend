@@ -47,11 +47,11 @@ export function PerfumesCardSlider(props: Props) {
                 <h1 className="text-3xl font-semibold">PERSONALLY RECOMMENDED</h1>
             </div>
             <Slider {...settings}>
-                {
+             {/*
                     Array.from(Array(9), (e, i) => {
                         return <Card rating={i}/>
                     })
-                }
+                */} 
             </Slider>
         </div>
 

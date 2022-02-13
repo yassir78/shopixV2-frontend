@@ -31,7 +31,7 @@ export function CategoryFilter() {
                         </div>
 
                         <div className="flex items-center">
-                            <input id="filter-brand-2" name="brand[]" value="blue" type="checkbox" checked className="h-4 w-4 border-gray-300 rounded text-indigo-600 focus:ring-indigo-500" />
+                            <input id="filter-brand-2" name="brand[]" value="blue" type="checkbox"  className="h-4 w-4 border-gray-300 rounded text-indigo-600 focus:ring-indigo-500" />
                             <label htmlFor="filter-brand-2" className="ml-3 text-sm text-gray-600"> Carolina Herrera </label>
                         </div>
 
@@ -81,7 +81,7 @@ export function CategoryFilter() {
                         </div>
 
                         <div className="flex items-center">
-                            <input id="filter-gender-2" name="gender[]" value="travel" type="checkbox" checked className="h-4 w-4 border-gray-300 rounded text-indigo-600 focus:ring-indigo-500" />
+                            <input id="filter-gender-2" name="gender[]" value="travel" type="checkbox"  className="h-4 w-4 border-gray-300 rounded text-indigo-600 focus:ring-indigo-500" />
                             <label htmlFor="filter-gender-2" className="ml-3 text-sm text-gray-600"> Female </label>
                         </div>
 
